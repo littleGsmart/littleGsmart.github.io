@@ -1,0 +1,12 @@
+h1 {
+    color: chocolate;
+    text-align: center;
+}
+canvas {
+    display: block;
+    width: 800px;
+    height: 800px;
+    background-color: #fdeff2;
+    margin: 0 auto;
+    
+}
